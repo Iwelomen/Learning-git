@@ -1,3 +1,3 @@
 # Learning-git
 
-Learning how to use git and github
+This repo was created from learning how to use git and github
